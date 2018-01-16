@@ -310,6 +310,6 @@ event closequery;IF ISVALID(in_timer) THEN
 	in_timer.Stop()
 	DESTROY in_timer
 END IF
-
+//
 end event
 
