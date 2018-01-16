@@ -30,14 +30,4 @@
  "uo_dwlv.sru" "pentacommon.pbl";
  "uo_dwlvin.sru" "pentacommon.pbl";
  "uo_imgbtn.sru" "pentacommon.pbl";
- "w_anccontrol.srw" "pentacommon.pbl";
- "w_ancresponse.srw" "pentacommon.pbl";
- "w_ancsheet.srw" "pentacommon.pbl";
- "w_calendar.srw" "pentacommon.pbl";
- "w_login.srw" "pentacommon.pbl";
- "w_menu_treestyle.srw" "pentacommon.pbl";
- "w_pf_main.srw" "pentacommon.pbl";
- "w_print_view.srw" "pentacommon.pbl";
- "w_sub_mdi.srw" "pentacommon.pbl";
- "w_wait.srw" "pentacommon.pbl";
 @end;
